@@ -1,0 +1,5 @@
+node_modules
+frontend/build
+frontend/node_modules
+compilers/*/target
+state.json

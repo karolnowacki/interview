@@ -1,0 +1,11 @@
+{
+    "type": "choice",
+    "question": "What is 2+2?",
+    "alternatives": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "correct": 3
+}

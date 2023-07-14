@@ -1,0 +1,8 @@
+{
+    "type": "java",
+    "question": "Code this:",
+    "source": "questions/q03/Solution.java",
+    "publicTest": "questions/q03/SolutionTest.java",
+    "fullTest": "questions/q03/SolutionFullTest.java",
+    "correct": [ 1, 3]
+}

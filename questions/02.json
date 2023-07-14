@@ -1,0 +1,11 @@
+{
+    "type": "multiple_choice",
+    "question": "Which of these numbers are even?",
+    "alternatives": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "correct": [ 1, 3]
+}
